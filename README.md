@@ -13,6 +13,8 @@ Getting a consultation with a doctor for predicting a disease is a time-consumin
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Implementation Diagram](#Implementation)
+- [Output](#output)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -62,6 +64,12 @@ To use the Disease Predictor System, execute the following steps:
 ## Implementation Diagram 
 
 ![image](https://github.com/vinay-ai-developer/Disease-Therapist/assets/106902815/3f75220d-d8c1-43d0-8b94-70f8898cda55)
+
+
+## Output 
+
+![image](https://github.com/vinay-ai-developer/Disease-Therapist/assets/106902815/56481dc5-8a23-4736-8dcc-82692cd36f23)
+
 
 ## Future Scope 
 
