@@ -13,7 +13,7 @@ Getting a consultation with a doctor for predicting a disease is a time-consumin
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Implementation Diagram](#Implementation diagram)
+- [Implementation Diagram](#Implementationdiagram)
 - [Output](#output)
 - [Contributing](#contributing)
 
