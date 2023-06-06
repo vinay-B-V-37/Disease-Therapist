@@ -59,7 +59,10 @@ To use the Disease Predictor System, execute the following steps:
 
 
 ## Future Scope 
-    Inclusion of a dedicated extension page can offer additional functionalities and predictions related to healthcare. By leveraging generative AI technology and API access, the model can be enhanced to allow users to provide prompts or descriptions of their symptoms directly. This extension page can serve as a comprehensive resource for users, enabling them to access a wide range of health-related predictions and information within a single platform. 
+
+Inclusion of a dedicated extension page can offer additional functionalities and predictions related to healthcare. By leveraging generative AI technology and API access, the model can be enhanced to allow users to provide prompts or descriptions of their symptoms directly. This extension page can serve as a comprehensive resource for users, enabling them to access a wide range of health-related predictions and information within a single platform. 
+
+
 
 
 
